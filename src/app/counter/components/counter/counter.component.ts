@@ -2,7 +2,7 @@ import { Component } from '@angular/core';
 
 @Component({
   selector:'app-counter',
-  templateUrl:'./../../counter.template.html'
+  templateUrl:'./counter.template.html'
 })
 export class CounterComponent {
 
